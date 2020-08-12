@@ -1,3 +1,4 @@
+**2020.08**
 ## 👨‍💻 I'm a 
 So-called Lead Solutions Architect; with a passion for innovative technologies and continuous learning. Experienced in designing and building large-scale distributed solutions.
 
