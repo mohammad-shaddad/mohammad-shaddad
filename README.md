@@ -1,6 +1,6 @@
 **2020.08**
 ## 👨‍💻 I'm a 
-So-called solutions engineer; with a passion for innovative technologies and continuous learning. Experienced in designing and building large-scale distributed solutions.
+So-called Solutions Engineer; with a passion for innovative technologies and continuous learning. Experienced in designing and building large-scale distributed solutions.
 
 ## 🏗 Side Projects
 - [Gerd](https://github.com/onyx-ws/gerd): a Chaos Monkey for K8s. Powered by netcore
