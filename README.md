@@ -1,7 +1,7 @@
-## I'm a 👨‍💻
+## 👨‍💻 I'm a 
 So-called Lead Solutions Architect; with a passion for innovative technologies and continuous learning. Experienced in designing and building cutting-edge, large-scale distributed solutions.
 
-## Currently Building 🏗
+## 🏗 Currently Building
 - Gerd: a Chaos Monkey for K8s. Powered by netcore
 - Ianvs: an API Gateway. Powered by netcore
 
