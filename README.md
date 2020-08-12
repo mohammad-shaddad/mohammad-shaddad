@@ -6,14 +6,14 @@ So-called Lead Solutions Architect; with a passion for innovative technologies a
 - [Ianvs](https://github.com/onyx-ws/ianvs): an API Gateway. Powered by netcore
 
 ## 🥞 Stack
-* Code: csharp; javascript; kotlin; java
-* Backend: netcore; aspnet; springboot
-* Frontend: reactjs
-* Database: mssql; mongodb
-* DevOps: kubernets; docker; helm; jenkins; azure-devops; github
-* Cloud: Azure; AWS
-* Others: kafka; rabbitmq; redis
-
+* Code: `csharp`; `javascript`; `kotlin`; `java`
+* Backend: `netcore`; `aspnet`; `springboot`
+* Frontend: `reactjs`
+* Database: `mssql`; `mongodb`
+* DevOps: `kubernets`; `docker`; `helm`; `jenkins`; `azure-devops`; `github`
+* Cloud: `azure`; `aws`
+* Others: `kafka`; `rabbitmq`; `redis`
+* Architecture: `microservices`; `rest`; `serverless`; `event-driven`
 <!--
 **mohammad-shaddad/mohammad-shaddad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
